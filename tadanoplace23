@@ -10,6 +10,11 @@
       "y": 178
     }
   ],
-  "whitelist": [],
+  "whitelist": [
+    {
+      "name": "komi",
+      "url": "https://raw.githubusercontent.com/ThatOneCodeDev/KomiSanPlace/main/template.json"
+    }
+  ],
   "blacklist": []
 }
