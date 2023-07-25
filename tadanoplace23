@@ -1,0 +1,15 @@
+{
+  "contact": "hurbruh",
+  "templates": [
+    {
+      "name": "tadano",
+      "sources": [
+        "https://cdn.discordapp.com/attachments/1131311358831501352/1133214933471997972/tandanofinal.png"
+      ],
+      "x": 2594,
+      "y": 178
+    }
+  ],
+  "whitelist": [],
+  "blacklist": []
+}
